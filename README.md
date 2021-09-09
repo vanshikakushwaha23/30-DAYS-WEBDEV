@@ -48,10 +48,29 @@ We have segment the resources into topics and inside each topic the content is a
 ├<br>
 ├── [CSS](https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/tree/main/CSS-WEBDEV)<br>
 ├ - ├── [DAY1.md](https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/blob/main/CSS-WEBDEV/day1.md)<br>
+├ - ├── [DAY2.md](https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/blob/main/CSS-WEBDEV/day2.md)<br>
+├ - ├── [DAY3.md](https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/blob/main/CSS-WEBDEV/day3.md)<br>
+├ - ├── [DAY4.md](https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/blob/main/CSS-WEBDEV/day4.md)<br>
+├ - ├── [Optional.md](https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/blob/main/CSS-WEBDEV/day-optional.md)<br>
+├ - └── [CSS_Quiz](https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/blob/main/CSS-WEBDEV/CSS-Quiz.md)<br>
 ├<br>
 ├── [Bootstrap](https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/tree/main/Bootstrap-WEBDEV)<br>
 ├ - ├── [DAY1.md](https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/blob/main/Bootstrap-WEBDEV/day-1.md)<br>
+├ - ├── [DAY2.md](https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/blob/main/Bootstrap-WEBDEV/day-2.md)<br>
+├ - └── [Bootstrap_Quiz](https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/blob/main/Bootstrap-WEBDEV/Bootstrap-Quiz.md)<br>
 ├<br>
+
+├<br>
+├── [Github](https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/tree/main/Github)<br>
+├ - - └── [GITHUB.md](https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/blob/main/Github/GITHUB.md)<br>
+├<br>
+├── [Hosting](https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/tree/main/HOSTING)<br>
+├ - ├── [DAY1.md](https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/blob/main/HOSTING/day-1.md)<br>
+├ - ├── [DAY2.md](https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/blob/main/HOSTING/day-2.md)<br>
+├<br>
+
+<br>
+
 
 
 
