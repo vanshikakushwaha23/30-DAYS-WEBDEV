@@ -5,7 +5,7 @@ Getting started with HTML(what is HTML) [Basics of HTML](https://developer.mozil
 Formatting Text and things in HTML(this will cover all the tags, linking, header, footer, etc)
 <ul>
 
-  <li> [Text Formatting](https://www.w3schools.com/html/html_formatting.asp)</li>
+  <li> <a href="https://www.w3schools.com/html/html_formatting.asp">Text Formatting</a> </li>
   <li>[Elements](https://www.w3schools.com/html/html_elements.asp)</li>
 [Links](https://www.w3schools.com/html/html_links.asp)<br>
 [All tags in alphabetical order](https://www.w3schools.com/tags/default.asp)<br>
