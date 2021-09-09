@@ -39,7 +39,7 @@ We have segment the resources into topics and inside each topic the content is a
 
 <br>
 <br>
-├── [HTML](https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/tree/main/HTML-WEBDEV)<br>
+├── [HTML]<br>(https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/tree/main/HTML-WEBDEV)<br>
 ├ - ├── [DAY1.md](https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/blob/main/HTML-WEBDEV/day-1.md)<br>
 ├ - ├── [DAY2.md](https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/blob/main/HTML-WEBDEV/day-2.md)<br>
 ├ - ├── [DAY3.md](https://github.com/vanshikakushwaha23/30-DAYS-WEBDEV/blob/main/HTML-WEBDEV/day-3.md)<br>
