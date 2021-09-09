@@ -28,7 +28,7 @@ The main **objective behind this program is to provide you with access to top-no
 We have designed **beginner-friendly** lessons covering up **HTML, CSS, Bootstrap 💛**.
 
 - [HTML](/HTML-WEBDEV/ReadMe.md)
-- [CSS](/CSS/ReadME.md)
+- [CSS](/CSS-WEBDEV/Readme.md)
 - [Bootstrap](/Bootstrap/ReadME.md)
 - [Hosting](/Hosting/ReadME.md)
 
