@@ -7,3 +7,4 @@ We'll focus on debuging our HTML code effectively and work on creating forms. Th
   <li><a=href="https://www.tutorialspoint.com/html/html_forms.htm">HTML forms-2</a></li>
   <li><a=href="https://www.w3schools.com/html/html_forms_attributes.asp">Form attributes</a></li>
   <li><a=href="https://www.w3schools.com/html/html_form_elements.asp">Form Elements</a></li>
+  </ul>
