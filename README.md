@@ -31,7 +31,7 @@ We have designed **beginner-friendly** lessons covering up **HTML, CSS, Bootstra
 - [CSS](/CSS-WEBDEV/Readme.md)
 - [Bootstrap](/Bootstrap-WEBDEV/Readme.md)
 - [Hosting](/HOSTING/Readme.md)
-- [Github](/Github/ReadME.md)
+- [Github](/Github/Readme.md)
 
 ## Resources
 
