@@ -17,5 +17,5 @@ We will be starting up with understanding the difference between Bootstrap versi
   <li><a href="https://www.w3schools.com/bootstrap4/bootstrap_filters.asp">Filters</a></li>
   <li><a href="https://www.tutorialspoint.com/bootstrap/bootstrap_online_quiz.htm"> QUIZ</a></li>
   <li><a href="http://www.allindiaexams.in/engineering/cse/bootstrap-mcq-quiz-bootstrap-online-test"> QUIZ</a></li>
-  <li><a href="https://www.w3schools.com/bootstrap4/bootstrap_quiz.asp"> QUIZ</a></li>
+
   </ul>
