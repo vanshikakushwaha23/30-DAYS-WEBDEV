@@ -4,7 +4,9 @@ We will be working with APIs in HTML. API is one of those things which you will 
   <li><a href="https://www.w3schools.com/html/html_object.asp">Plug-ins in HTML </a></li>
   <li><a href="https://www.w3schools.com/html/html_youtube.asp">Playing with youtube videos in HTML </a></li>
   <li>HTML APIs</li>
-  <t><li><a href="https://www.w3schools.com/html/html5_geolocation.asp">Geolocation</a></li>
+  </ul>
+  <ul>
+  <li><a href="https://www.w3schools.com/html/html5_geolocation.asp">Geolocation</a></li>
   <li><a href="https://www.w3schools.com/html/html5_draganddrop.asp">Drag and Drop</a></li>
   <li><a href="https://www.w3schools.com/html/html5_webstorage.asp">Web storage</a></li>
   <li><a href="https://www.w3schools.com/html/html5_serversentevents.asp">See API</a></li>
