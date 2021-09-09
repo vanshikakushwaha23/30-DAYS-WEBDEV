@@ -6,8 +6,8 @@ Formatting Text and things in HTML(this will cover all the tags, linking, header
 <ul>
 
   <li> <a href="https://www.w3schools.com/html/html_formatting.asp">Text Formatting</a> </li>
-  <li>[Elements](https://www.w3schools.com/html/html_elements.asp)</li>
-[Links](https://www.w3schools.com/html/html_links.asp)<br>
-[All tags in alphabetical order](https://www.w3schools.com/tags/default.asp)<br>
-[HTML block elements](https://www.tutorialspoint.com/html/html_blocks.htm)<br>
+  <li><a href="https://www.w3schools.com/html/html_elements.asp"> Elements</a> </li>
+  <li><a href ="https://www.w3schools.com/html/html_links.asp"> [Links]</a><br>
+  <li><a href="https://www.w3schools.com/tags/default.asp"> All tags in alphabetical order </a></li>
+  <li><a=href ="https://www.tutorialspoint.com/html/html_blocks.htm"> HTML block elements </a></li>
 </ul>
